@@ -15,8 +15,7 @@
 
 ## Используемые библиотеки
 
-Pandas
-Matplotlib
+Pandas, Matplotlib
 
 ## Выводы
 

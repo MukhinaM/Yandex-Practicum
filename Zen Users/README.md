@@ -14,3 +14,5 @@ Pandas, Sqlalchemy, Tableau, PowerPoint
 - На первом месте по количеству действий карточка с темой «Наука»
 - Из 26 тем источников созданы карточки на 25 тем
 - Максимум действий произведено на стыке источника «Путешествия» и карточек «Рассказы»
+
+## [Дашборд](https://public.tableau.com/views/YandexProject_16718253536770/_?:language=en-US&:display_count=n&:origin=viz_share_link) 
